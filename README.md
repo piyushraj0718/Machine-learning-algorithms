@@ -1,6 +1,6 @@
 # Machine Learning Algorithms – Practical Implementations
 
-# ------ PIYUSH RAJ – MACHINE LEARNING ALGORITHMS REPOSITORY ------
+# PIYUSH RAJ 
 
 
 This repository is a structured collection of machine learning algorithms that I implemented while learning ML through hands-on practice. The goal of this project is not theory notes, but to understand how models behave by actually building, testing, and experimenting with them on datasets.
